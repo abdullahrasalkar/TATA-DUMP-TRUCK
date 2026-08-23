@@ -20,3 +20,9 @@ chamfered sides and overhangs for reducing supports and print failure<br>
 <li>Nozzle: 0.4mm<br></li>
 <li>Speed: 150mm/s</li>
 </ul>
+
+<h1>DOWNLOAD LINKS:</h1>
+<B>PRINTABLES:</B> https://www.printables.com/model/1820634-tata-dump-truck <br>
+<B>ONSHAPE:</B> https://cad.onshape.com/documents/826197b30ec0e37d1214d027/w/b0a41fdb6b6994b4c9a32ea5/e/98e8bd28050a0a6b18b162a5?renderMode=0&leftPanel=false&uiState=6a8b0bd2b657f41fa4e0c001 <br>
+<img width="784" height="626" alt="Screenshot 2026-08-23 184919" src="https://github.com/user-attachments/assets/df1c8f80-ce40-456c-ad88-17f5205b6376" /><img width="1130" height="700" alt="Screenshot 2026-08-23 183727" src="https://github.com/user-attachments/assets/b16260ab-913a-4d5c-a131-1a6039052b1c" />
+
