@@ -1,7 +1,6 @@
 # TATA-DUMP-TRUCK
 A simple 3D printable model of TATA dump truck. It's a detailed construction vehicle with a cabin, chassis, bucket, axles, tyres. It is designed to print easily and can be assembled very easily.
-it has an articulated tipping bucket. It is designed with clearences so everything fits well and easily. It includes details like headlights, taillights, bumpers, tyres and indicators. it has 
-chamfered sides and overhangs for reducing supports and print failure<br>
+it has an articulated tipping bucket. It is designed with clearances so everything fits well and easily. It includes details like headlights, taillights, bumpers, tyres and indicators. it has chamfered sides and overhangs for reducing supports and print failure. It also has a working tipping bucket. You can even print it in colours if you want <br>
 <h1>WHY I MADE THIS:</h1>
 I wanted to create a detailed truck model that can be 3d printed easily. I wanted to make it look a real as possible while keeping it 3D printable. I also wanted to make the tipping bucket articulated. I also wanted to learn CAD.
 <h1>FEATURES:</h1>
